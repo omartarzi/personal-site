@@ -1,86 +1,89 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I am a junior software engieer at HBB Inc. where I work on building an app to connect users from around the world.
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and nature. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Los Angeles but am always available over Zoom/Skype/FaceTime.
 <br><br>
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+At HBB Inc. I have learned how to work in a team environment and build iOS based user profiles. I've also learned how to build and maintain large phone applications.
 <br><br>
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- In 2004 I would use my father's PC just to play games.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- In the summer of 2005, my parents bought me a PS2 and the first game I had was GTA. I might have endangered my education by using it too much.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- My parents let me pick out my first laptop in 2010 and I chose a Toshiba just because it could play 3D movies. My favorite movies were Like Mike, Slumdog Millionaire, and Iron Man. To this day, I still don't know how to turn on the 3D mode.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- I didn't get over 10mbps download speed until I was a senior in high school in 2013. I now get over 500mbps.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 12, I discovered I could play online with my friends on Playstation and almost failed 7th grade.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- When I was 13 I competed in my first FIFA tournament. I lost in the second round.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- In 9th grade I got to travel to England as part of the Arsenal soccer school and compete against youth teams from the Premier League.
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- At 15, I got my one and only detention for secretly putting a few drips of water on everyone's chair. I was the only one with dry pants.
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
+- At 16, I went to summer camp at the University of California: Los Angeles (UCLA) and fell in love. I went back the next year and promised myself that I'd go to college here. I've since graduated with two degrees from UCLA.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- During my second year of college, I spent too much money on sneakers and realized I had to sell them or not eat. I started finding hard to get shoes for my friends that they would pay a premium for and ended up making a small (unofficial) business out of it.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+- At 21, I worked with software engineers for the first time at Snap Inc. This got me thinking about pursuing a career change.
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
+- At 23, I built my first website with React. My website was terrible.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
+- Competition
+- Food
+- Gaming
+- Soccer
+- Football
+- Basketball
+- Scubadiving
+- Streetwear
+- Sneakers
+- Movies
+- Music
+- Dogs
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
+<!-- - [Books](https://www.goodreads.com/mdangelo) -->
+<!-- - Colored pencils (Faber-Castell Polychromos) -->
+- Podcasts ([Joe Rogan Experience](http://podcasts.joerogan.net/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Rough Translation](https://www.npr.org/podcasts/510324/rough-translation), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [The Fantasy Footballers](https://www.thefantasyfootballers.com/), and others)
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- [Videography](https://www.youtube.com/user/TheMrPromar)
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I am from originally from Cairo, Egypt however I was born in Boston, Massachusetts. I have since lived in Manama, Bahrain and Los Angeles, California.
 
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- Although I lived in Bahrain, an island smaller than the size of LA, for 18 years, I was not able to pick up the local dialect.
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+- I've been to about 25 countries, some of which I have forgotten, and many of which I would like to revisit.
 
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
+- My favorite country - so far - is the Maldives.
 
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
+- I went to Barcelona for my senior trip and have been eating paella ever since.
 
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
+- When I visit my family in Egypt I plan layovers so that I can spend a day touring a new city usually in Europe.
 
-- I am an Oregon Trail II enthusiast.
+- The next country I plan to visit: Japan.
 
 #### Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
+- I built my own PC but had to get it fixed because I pushed the cables in too hard.
+- I almost always have bubblegum with me.
+- My favorite YouTube series is Hot Ones.
+- I am a native Arabic speaker.
+- I operate a small  business where I help people get limited sneakers.
+- I break about 15 traffic laws on an [electric scooter](https://https://glion-scooter.com/) every single day.
+- I added this page because this site is more than just a resume.
 
 #### I dream of
 
-- always finding inspiration.
+- always finding inspiration and inspiring others.
 - enabling a brighter future.
 - doing better.
 - no one checking my commit history for early drafts of this file.

@@ -23,7 +23,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/omar.el.tarzi',
+    link: 'https://www.linkedin.com/in/omar-el-tarzi',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
