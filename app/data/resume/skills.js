@@ -23,7 +23,7 @@ const skills = [{
 },
 {
   title: 'Amazon Web Services',
-  competency: 4,
+  competency: 2,
   category: ['Web Development', 'Tools'],
 },
 {
