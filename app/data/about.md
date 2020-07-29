@@ -1,6 +1,6 @@
 
 #### Intro
-I am a junior software engieer at HBB Inc. where I work on building an app to connect users from around the world.
+I am a junior software engineer at HBB Inc. where I work on building an app to connect users from around the world.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and nature. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Los Angeles but am always available over Zoom/Skype/FaceTime.
 <br><br>

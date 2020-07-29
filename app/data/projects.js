@@ -1,33 +1,26 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Blue Checks',
+    subtitle: 'A Community Mobile App',
+    // link: '/projects/nearestdollar/',
+    image: '/images/projects/bluechecks.jpg',
+    date: '2020-06-23',
+    desc: 'Built for social impact by reviewing and reporting information and experiences with public figures. Created a login and sign up that allows users to find the members of their local command staff. ',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Lululemon',
+    subtitle: 'Web-Scale System Design',
+    link: 'https://www.lululemon.com',
+    image: '/images/projects/lululemon.jpg',
+    date: '2020-05-08',
+    desc: 'Increased data set from 100 unique records to 10 million unique records and deployed to AWS EC2 to support elastic load balancing. Tested query times between MongoDB and PostgreSQL and optimized with indexing to reduce queries to an average of under 15ms per request. Horizontally scaled the requests per second capability from one EC2 instance with 1700rps, 0% errorrate,and 67ms average response time,up to 4 EC2 instances with 10,000 rps, 0% error rate, and 12ms average response time via creation of a load balancer.',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Nixon',
+    subtitle: 'E-Commerce Front-End Clone.',
+    link: 'http://www.nixon.com',
+    image: '/images/projects/nixon.jpg',
+    date: '2020-04-01',
+    desc: 'Implemented a review functionality to allow users to view and write reviews for a database of 100 unique and dynamic records. Linked 3 modules and databases onto a single-page using a service-oriented architecture. Deployed to AWS EC2 to support elastic load balancing.',
   },
   //{
   //   title: 'Cat Detector',

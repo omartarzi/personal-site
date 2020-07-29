@@ -4,10 +4,9 @@ const positions = [{
   // link: 'https://arthena.com',
   daterange: 'June 2020 - Present',
   points: [
-    'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-    'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-    'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-    'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+    'Build the user profile page while following strict guidelines using React Native.',
+    'Debug, test, and troubleshoot the application development process.',
+    'Develop existing programs by analysing and identifying areas for modification.',
   ],
 }, {
   company: 'Vistex Inc.',
@@ -19,27 +18,29 @@ const positions = [{
     'Create training materials and give verbal training instructions to customers and other staff members.',
     'Write reports on application programs based on data analysis to suggest software improvements.',
   ],
+}, {
+  company: 'Snap Inc.',
+  position: 'Content Analyst Associate',
+  link: 'https://www.snapchat.com/',
+  daterange: 'September 2017 - September 2018',
+  points: [
+    'Communicated with the development team to improve the search functionality in English and Arabic speaking regions.',
+    'Coordinate with teams to identify information related to pieces of content in English and Arabic.',
+    'Exercise good judgment when reviewing and selecting Snaps that meet brand and curation guidelines.',
+    'Assess and describe scenarios quickly, effectively, and with impeccable attention to details and grammar',
+  ],
+}, {
+  company: 'Academic Advancement Program',
+  position: 'Peer Learning Facilitator',
+  link: 'https://www.aap.ucla.edu/',
+  daterange: 'September 2016 - December 2017',
+  points: [
+    'Tutor over 35 students from under-privileged backgrounds in introductory statistics over one quarter.',
+    'Empower students to become active and critical thinkers who recognize their own intellectual agency.',
+    'Apply communication skills to present challenging academic concepts in an interactive manner.',
+  ],
 },
-// }, {
-//   company: 'Skeptical Investments',
-//   position: 'Co-founder',
-//   link: 'http://skepticalinvestments.biz',
-//   daterange: 'April 2017 - Present',
-//   points: [
-//     'Founded a micro-vc fund to throw token amounts of money at problems I find interesting.',
-//     'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-//   ],
-// }, {
-//   company: 'Enveritas',
-//   position: 'Consultant',
-//   link: 'http://enveritas.org',
-//   daterange: 'September 2016 - 2018',
-//   points: [
-//     'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-//     'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-//     'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
-//   ],
-// }, {
+//{
 //   company: 'Zenysis',
 //   position: 'Consultant',
 //   link: 'https://zenysis.com',
